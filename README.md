@@ -36,3 +36,4 @@ Orta, orta.therox@gmail.com
 The Code itself is MIT. 
 The font license for EB Garamonds is the [SIL Open Fonts License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 The font license for Text Gyre Adventor is the [GUST Font License](http://www.gust.org.pl/projects/e-foundry/index_html#GFL)
+ 
